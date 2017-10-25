@@ -5,5 +5,5 @@ class PigLatinize
     @user_input = user_input
   end
 
-
+  
 end
