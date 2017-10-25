@@ -15,7 +15,7 @@ class PigLatinizer
         consonants << word[0]
         word = word.split("")[1..-1].join
       end
-      word + consonants + 'way'
+      word + consonants + 'ay'
     end
   end
 
