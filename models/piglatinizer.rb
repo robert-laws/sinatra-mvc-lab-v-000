@@ -25,7 +25,3 @@ class PigLatinizer
   end
 
 end
-
-p = PigLatinizer.new
-
-puts p.piglatinize("pork")
